@@ -3,7 +3,7 @@ Werkzeug==2.2.3
 google-generativeai==0.8.5
 pandas==2.2.2
 gunicorn==21.2.0
-google-auth==2.29.0
+google-auth==2.38.0
 google-cloud-bigquery==3.24.0 
 db-dtypes
 Flask-Cors==4.0.0
