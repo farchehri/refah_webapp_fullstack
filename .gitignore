@@ -1,0 +1,5 @@
+#project-wide ignores
+.DS_Store
+
+#important: env variables shall never be exposed at github
+.env
